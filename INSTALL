@@ -1,0 +1,9 @@
+Building GAKHcoin
+
+See doc/readme-qt.rst for instructions on building GAKHcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GAKHcoin.
+
+See doc/build-*.txt for instructions on building gakhcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GAKHcoin.
