@@ -1,3 +1,4 @@
+DO NOT COPY!
 
 GAKHcoin development tree
 
